@@ -12,4 +12,4 @@ public class Darrays1 {
         }
         sc.close();
     }  
-}
+} 
