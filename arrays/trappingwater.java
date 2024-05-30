@@ -21,7 +21,7 @@ public class trappingwater {
         return trapped_pani;
     }
     public static void main(String[] args) {
-        int height[]={4,0,0,6,3,2,5};
+        int height[]={4,0,0,6,3,2,6};
         System.out.println(trapped(height));
     }
 }
