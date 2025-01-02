@@ -14,6 +14,7 @@ public class CreatingTree {
     }
     public static void main(String[] args) {
         int v=5;
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph=new ArrayList[v];//empty array of arraylist
 
         // initialise array of arraylisy 

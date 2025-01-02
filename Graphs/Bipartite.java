@@ -67,6 +67,7 @@ public class Bipartite {
 
     public static void main(String[] args) {
         int v = 7;
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph = new ArrayList[v];
         createGraph(graph);
         System.out.println(isBipartite(graph));
