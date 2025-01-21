@@ -1,5 +1,5 @@
 package Leetcode;
-
+// 2270
 public class SplitArrayOni {
     // public int waysToSplitArray(int[] nums) {
     //     long sum=0;
